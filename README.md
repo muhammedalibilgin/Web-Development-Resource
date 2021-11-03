@@ -4,7 +4,7 @@
 ---
 # JAVASCRİPT
 
-[https://scrollmagic.io/docs/index.html](https://scrollmagic.io/docs/index.html) (Amazing scroll effect library)
+[ScrollMagic](https://scrollmagic.io/docs/index.html) (Amazing scroll effect library)
 
 # REACT
 
