@@ -2,6 +2,8 @@
  Useful resources that I used and came across while learning web development. 
 
 ---
+#JAVASCRİPT
+[https://scrollmagic.io/docs/index.html](https://scrollmagic.io/docs/index.html) (Amazing scroll effect library)
 
 # REACT
 
