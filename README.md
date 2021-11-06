@@ -18,5 +18,8 @@ Useful resources that I used and came across while learning web development.
 - [MUI- Material UI](https://mui.com/)
 - [Formik](https://formik.org/docs/overview)
 - [yupjs- github](https://github.com/jquense/yup)
+<<<<<<< HEAD
 
 # deneme
+=======
+>>>>>>> 0deab0627ad7b14337cbf52f646eb5b4fed8dc5e
