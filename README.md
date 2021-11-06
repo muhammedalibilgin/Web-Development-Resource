@@ -4,6 +4,8 @@ Useful resources that I used and came across while learning web development.
 
 ---
 
+# HTML
+
 # CSS
 
 # JAVASCRİPT
