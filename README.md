@@ -20,3 +20,5 @@ Useful resources that I used and came across while learning web development.
 - [yupjs- github](https://github.com/jquense/yup)
 
 # deneme
+
+some codesss
